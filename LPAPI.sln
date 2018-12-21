@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LPAPI.Droid", "LPAPI.Droid\LPAPI.Droid.csproj", "{ADB8044A-7081-4A72-867F-79CAA21F8D62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LPAPI.iOS", "LPAPI.iOS\LPAPI.iOS.csproj", "{7BF0E0CD-2A30-424C-8FC1-0C5F7D7881CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADB8044A-7081-4A72-867F-79CAA21F8D62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADB8044A-7081-4A72-867F-79CAA21F8D62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADB8044A-7081-4A72-867F-79CAA21F8D62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADB8044A-7081-4A72-867F-79CAA21F8D62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BF0E0CD-2A30-424C-8FC1-0C5F7D7881CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BF0E0CD-2A30-424C-8FC1-0C5F7D7881CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BF0E0CD-2A30-424C-8FC1-0C5F7D7881CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BF0E0CD-2A30-424C-8FC1-0C5F7D7881CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
