@@ -1,2 +1,2 @@
 # LPAPI
-Label Printer API Binding Project proted to Xamarin.iOS and Xamarin.Android
+Label Printer API Binding Project ported to Xamarin.iOS and Xamarin.Android
